@@ -17,7 +17,7 @@ You can find documentation online at [OHDSI.org](https://www.ohdsi.org/data-stan
 ---
 
 ## In this repository
-You will find code samples from our exploration work, including:
+You will find code samples from my exploration work, including:
 * An efficient setup for pulling OMOP-CDM data - using SQL.
 * A great setup for experimental tasks at scale - using Pytorch, Pytorch Lightning. It is complete with a full DataLoader + Pipeline.
 * Various models (Logistic Regression, RNNs, Transformers) for Prediction tasks and tests.
